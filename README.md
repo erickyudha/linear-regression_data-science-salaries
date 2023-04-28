@@ -1,1 +1,1 @@
-# linear-regression_data-science-salaries
+# linear-regression_world-happiness
